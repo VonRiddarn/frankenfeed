@@ -3,9 +3,11 @@ import "./App.scss";
 function App() {
 	return (
 		<>
-			<div>
-				<p>test</p>
-			</div>
+			<main>
+				<section>CREATE POST</section>
+				<section>OLD POSTS</section>
+			</main>
+			<aside>CHANGE ACCOUNT</aside>
 		</>
 	);
 }
